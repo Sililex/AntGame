@@ -1,0 +1,1 @@
+nest_food_counter = 0;
